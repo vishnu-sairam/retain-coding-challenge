@@ -1,0 +1,14 @@
+# Core Flask dependencies
+Flask==2.3.2
+Werkzeug==2.3.6
+
+# Security and validation
+email-validator==2.0.0
+
+# Testing dependencies
+pytest==7.4.0
+pytest-flask==1.2.0
+
+# Development dependencies
+flake8==6.0.0
+black==23.7.0

@@ -1,0 +1,11 @@
+# Core Flask dependencies
+Flask==2.3.2
+Werkzeug==2.3.6
+
+# Testing dependencies
+pytest==7.4.0
+pytest-flask==1.2.0
+
+# Development dependencies (optional)
+flake8==6.0.0
+black==23.7.0
